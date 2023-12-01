@@ -7,7 +7,7 @@ import IMG3 from '../../assets/Screenshot (70).png'
 import IMG4 from '../../assets/Screenshot (72).png'
 import IMG5 from '../../assets/Screenshot (73).png'
 import IMG6 from '../../assets/Screenshot (74).png'
-import IMG1 from '../../assets/Screenshot_2023-04-09-11-33-20-736_com.example.onboarding-edit.jpg'
+import IMG1 from '../../assets/Screenshot_2023-04-09-11-33-20-736_com.example.onboarding-edit.png'
 import IMGT from '../../assets/521070.jpg'
 import IMG8 from '../../assets/Screenshot (75).png'
 import IMG9 from '../../assets/Screenshot (77).png'
@@ -19,9 +19,9 @@ const data = [
     id:1,
     image:IMG1,
     title:'Study Sphere',
-    desc:'An Android app that helps students to view their course materials, submit assignments, track their progress and interact with professors.',
-    live:'',
-    github:'https://github.com/Prasanth-Tolety/AI-vengers'
+    desc:' Developed a web application that allows users to search for books based on their input keywords',
+    live:'https://book-finder-app-beige.vercel.app/',
+    github:'https://github.com/Abhiraamd5/BookFinder-App'
   },
   {
     id:2,
@@ -53,7 +53,7 @@ const data = [
     title:'Spotify Clone',
     desc:'A basic prototype of a music player interface with functional play, pause, and forward song buttons and a banner of playing song is shown.',
     live:'https://prudhvimedapati1.github.io/webMusicPlayer/',
-    github:'https://github.com/prudhvimedapati1/webMusicPlayer'
+    github:'#github'
   },
   {
     id:6,
@@ -61,7 +61,7 @@ const data = [
     title:'To-Do list',
     desc:'A simple and beautiful looking to-do list application that allows us to add new to-do tasks, strike-through, and delete them.',
     live:'https://prudhvi-todolist.netlify.app/',
-    github:'https://github.com/prudhvimedapati1/To-Do-list'
+    github:'#github'
   },
   {
     id:7,
@@ -69,7 +69,7 @@ const data = [
     title:'Dice-game',
     desc:'A simple dice game which determines the winner between two players by comparing the numbers.',
     live:'https://prudhvimedapati1.github.io/diceegame/',
-    github:'https://github.com/prudhvimedapati1/dicegame'
+    github:'#github'
   },
   {
     id:8,
@@ -85,7 +85,7 @@ const data = [
     title:'Swiggato',
     desc:' A food delivery website from where users  can search between different dishes, add them to the cart and check them out.',
     live:'https://swiggato.netlify.app/',
-    github:'https://github.com/prudhvimedapati1/SwiggyCloneMern'
+    github:'#github'
   }
 ]
 
