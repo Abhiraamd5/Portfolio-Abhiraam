@@ -18,7 +18,7 @@ const data = [
   {
     id:1,
     image:IMG1,
-    title:'Study Sphere',
+    title:'BookFinder-App',
     desc:' Developed a web application that allows users to search for books based on their input keywords',
     live:'https://book-finder-app-beige.vercel.app/',
     github:'https://github.com/Abhiraamd5/BookFinder-App'
